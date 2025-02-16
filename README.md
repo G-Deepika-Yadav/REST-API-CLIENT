@@ -1,10 +1,19 @@
 # REST-API-CLIENT
 *COMPANY*: CODTECH IT SOLUTIONS
+
+
 *NAME*: G DEEPIKA
+
+
 *INTERN ID*: CT6WQZA
+
+
 *DOMAIN*: JAVA PROGRAMMING
+
 *DURATION*: 6 WEEKS
+
 *MENTOR*: NEELA SANTOSH*
+
 *DESCRITION*:
 REST API Client in Java
 This repository contains a Java application that demonstrates how to handle HTTP requests and parse JSON responses. The program consumes a public REST API (e.g., fetching weather data) and displays the retrieved data in a structured format.
